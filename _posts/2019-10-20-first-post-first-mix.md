@@ -4,11 +4,11 @@ title: " First Post, First Mix"
 categories: mix
 ---
 
-<p style="text-align: center;">
-  <a href="https://www.dropbox.com/s/ke9klt4ook73aqy/help-yourself-a-diy-guide.ogg?dl=0">DOWNLOAD IF YOU ARE HAVING PROBLEMS PLAYING THE MIX FROM THE WEBPAGE</a>
+<p style="text-align: center; margin-bottom: 13px">
+  <a href="https://www.dropbox.com/s/ke9klt4ook73aqy/help-yourself-a-diy-guide.ogg?dl=0">DOWNLOAD</a>
 </p>
 
-<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fleonardo_idone%2Fhelp-yourself-a-diy-guide%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fleonardo_idone%2Fhelp-yourself-a-diy-guide%2F" frameborder="0" ></iframe>
 
 <img src="/drdblog/assets/help-yourself.png" alt="cover" style="max-width:80%; height:auto; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; display:block;" />
 
