@@ -37,5 +37,5 @@ Long trips, during which i try to find something to do, to not let my mind wande
 There are lots of things an individual can do to pass the time. Since my commuting is usually done via public transportation, the activities from which i can choose from are not many.
 Since i don't like to read in public places, or at least not very crowded ones, i usually prefer to put some earphones on and zone out while listening to my Youtube playlists. And between every song, i try to see if there are any other songs in the same key as the one i'm currently listening to, or maybe with similar themes, or just with the same vibe. And when two tracks really sound good togheter, i write them down, rearrange them, and so on, until by pure chance i create a new mix.
 So, in other words, i don't listen to music to create mixes. Rather, i create mixes because i listen to music. Because i listen to things that help me wind down, or drive away bad thoughts and stress that could be plaguing me.
-And i listen to music because it's best way i know to cope with truly anything that happens in your life, wheter these things are bad, good, or anything in between.
+And i listen to music because it's the best way i know to cope with truly anything that happens in your life, wether these things are bad, good, or anything in between.
 Anyway, it's getting late, see you when i see you.
