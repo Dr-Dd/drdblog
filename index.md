@@ -5,6 +5,7 @@ permalink:
 ---
 
 # Hello, Stranger
+
 I'm drd.
 This is my personal blog.
 In here you will find some info about me, about interesting stuff that i do, maybe some news that i deem important, but not much else.  I won't always post regularly, but my work ethics focus on the "quality over quantity" principle. So suit yourself.
