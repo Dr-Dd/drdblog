@@ -5,7 +5,7 @@ categories: mix
 ---
 
 <p style="text-align: center; margin-bottom: 13px">
-  <a href="https://www.dropbox.com/s/ke9klt4ook73aqy/help-yourself-a-diy-guide.ogg?dl=0">DOWNLOAD</a>
+  <a href="https://www.dropbox.com/s/5iic17343tkq5y0/Various%20-%20unknown%20album%20-%2000%20-%20Help%20Yourself%2C%20a%20DIY%20guide.mp3?dl=0">DOWNLOAD</a>
 </p>
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fleonardo_idone%2Fhelp-yourself-a-diy-guide%2F" frameborder="0" ></iframe>
