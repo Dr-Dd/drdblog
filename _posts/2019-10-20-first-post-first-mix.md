@@ -18,10 +18,6 @@ categories: mix
 
 <img src="/drdblog/assets/help-yourself.png" alt="cover" style="max-width:80%; height:auto; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; display:block;" />
 
-<p style="text-align: center;">
-  <a href="https://drive.google.com/file/d/17PvOLx1yFtGZpuDG6u-896BCeC42ng0A/view?usp=sharing">DOWNLOAD</a>
-</p>
-
 # Help Yourself, a DIY guide
 
 Before reading, i suggest you to sit back, have drink and press play.
