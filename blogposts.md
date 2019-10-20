@@ -14,7 +14,7 @@ Work in progress!
       <ul>
       {% for post in category[1] %}
         <li>
-          <a href="{{ post.url }}">[{{ post.date | date: '%Y-%m-%d'}}] {{ post.title }}</a>
+          <a href="{{ post.url | relative_url }}">[{{ post.date | date: '%Y-%m-%d'}}] {{ post.title }}</a>
         </li>
       {% endfor %}
       </ul>

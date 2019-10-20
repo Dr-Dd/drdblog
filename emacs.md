@@ -6,10 +6,10 @@ permalink: /emacs
 
 # Welcome to my init.el
 
-This is my emacs config, there are many like it, but this one is mine.\
-I tend to put the minimum necessary to satisfy any needs i have. I hope that one day the LSP project will enable us to use a text editor for all our IDE needs, even though i know there's a MELPA package for that.\
-As you can see, i don't skimp on eye-candy.\
-Also, i only use light themes, because the night it's not made for working.\
+This is my emacs config, there are many like it, but this one is mine.
+I tend to put the minimum necessary to satisfy any needs i have. I hope that one day the LSP project will enable us to use a text editor for all our IDE needs, even though i know there's a MELPA package for that.
+As you can see, i don't skimp on eye-candy.
+Also, i only use light themes, because the night it's not made for working.
 Please, be gentle.
 
 ```elisp
