@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " First Post, First Mix"
-categories: [mix]
+categories: mix
 ---
 
 <iframe
