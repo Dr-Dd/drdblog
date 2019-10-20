@@ -4,6 +4,10 @@ title: " First Post, First Mix"
 categories: mix
 ---
 
+<p style="text-align: center;">
+  <a href="https://www.dropbox.com/s/ke9klt4ook73aqy/help-yourself-a-diy-guide.ogg?dl=0">DOWNLOAD IF YOU ARE HAVING PROBLEMS PLAYING THE MIX FROM THE WEBPAGE</a>
+</p>
+
 <iframe
   frameborder="0"
   width="330"
