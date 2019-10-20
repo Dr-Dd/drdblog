@@ -8,13 +8,7 @@ categories: mix
   <a href="https://www.dropbox.com/s/ke9klt4ook73aqy/help-yourself-a-diy-guide.ogg?dl=0">DOWNLOAD IF YOU ARE HAVING PROBLEMS PLAYING THE MIX FROM THE WEBPAGE</a>
 </p>
 
-<iframe
-  frameborder="0"
-  width="330"
-  height="150"
-  src="https://drive.google.com/file/d/17PvOLx1yFtGZpuDG6u-896BCeC42ng0A/preview?usp=sharing"
-  style="margin-top:auto; margin-bottom:13px; margin-left:auto; margin-right:auto; display:block;">
-</iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fleonardo_idone%2Fhelp-yourself-a-diy-guide%2F" frameborder="0" ></iframe>
 
 <img src="/drdblog/assets/help-yourself.png" alt="cover" style="max-width:80%; height:auto; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; display:block;" />
 
