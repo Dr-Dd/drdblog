@@ -45,6 +45,7 @@ footer: "\"I tell you, we are here on Earth to fart around, and don't let anybod
 
 highlighter: rouge
 
+google_analytics: UA-150457417-1
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
