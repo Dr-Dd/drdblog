@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " Uncultured Review #1: Kurt Vonnegut, Dresden and everything in between."
-header-img: "assets/2019-10-23-thumb.png"
+header-img: "/drdblog/assets/2019-10-23-thumb.png"
 categories: blogpost
 ---
 
