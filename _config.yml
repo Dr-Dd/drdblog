@@ -22,7 +22,7 @@ title: drd's blog
 email: idone.leonardo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: /drdblog # the subpath of your site, e.g. /blog
-url: Dr-Dd.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://Dr-Dd.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
 github_username:  Dr-Dd
 
