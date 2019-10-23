@@ -1,15 +1,9 @@
 ---
 layout: post
 title: " Uncultured Review #1: Kurt Vonnegut, Dresden and everything in between."
+header-img: "assets/2019-10-23-thumb.png"
 categories: blogpost
-image: /drdblog/assets/default-thumb.png
 ---
-
-{% if page.image %}
-  <meta property="og:image" content="/drdblog/assets/2019-10-23-thumb.png">
-{% else %}
-  <meta property="og:image" content="/drdblog/assets/2019-10-23-thumb.png">
-{% endif %}
 
 <img src="/drdblog/assets/cradle.jpg" alt="cover" style="max-width:60%; height:auto; margin-top:13px; margin-bottom:13px; margin-left:auto; margin-right:auto; display:block;" />
 
