@@ -1,6 +1,7 @@
 ---
 layout: post
-title: " Uncultured Review #1: Kurt Vonnegut, Dresden and everything in between."
+title: "Uncultured Review #1: Kurt Vonnegut, Dresden and everything in between."
+subtitle: "A little overview of what Kurt Vonnegut has brought to my life"
 header-img: "/drdblog/assets/2019-10-23-thumb.png"
 categories: blogpost
 ---
