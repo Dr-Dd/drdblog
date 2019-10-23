@@ -6,8 +6,6 @@ permalink: /blogposts
 
 # My latest blogposts
 
-Work in progress!
-
 <ul>
   {% for category in site.categories %}
     {% if category[0] == 'blogpost' %}
