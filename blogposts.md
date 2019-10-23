@@ -1,5 +1,5 @@
 ---
-title: " blogposts"
+title: "blogposts"
 layout: page
 permalink: /blogposts
 ---
@@ -21,4 +21,3 @@ Work in progress!
     {% endif %}
   {% endfor %}
 </ul>
-

@@ -1,7 +1,7 @@
 ---
-title: " home"
+title: "home"
 layout: page
-permalink: 
+permalink:
 ---
 
 # Hello, Stranger
@@ -12,3 +12,13 @@ In here you will find some info about me, about interesting stuff that i do, may
 I like music, and i post some mixes that i make for my personal pleasure. Check them out on my mixes page.
 I'm an evil martian vimmer, so take a look at my emacs config file if you'd like (click on "emacs" in the navbar).
 I also have a [github](https://github.com/Dr-Dd "github"). Feel free to fork any of my projects.
+
+# My latest post
+
+<ul>
+    {% for post in site.posts limit:1 %}
+        <li>
+            <a href="{{ post.url | relative_url }}">[{{ post.date | date: '%Y-%m-%d' }}] {{ post.title }}</a>
+        </li>
+    {% endfor %}
+</ul>
