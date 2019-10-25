@@ -2,7 +2,7 @@
 title: "Welcome"
 layout: page
 permalink:
-image: index-thumb.png
+image: assets/index-thumb.png
 ---
 
 # Hello, Stranger
