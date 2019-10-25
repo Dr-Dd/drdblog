@@ -1,7 +1,8 @@
 ---
-title: "home"
+title: "Welcome"
 layout: page
 permalink:
+image: index-thumb.png
 ---
 
 # Hello, Stranger
