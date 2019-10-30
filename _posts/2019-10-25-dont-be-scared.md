@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Sporadic Mix #2: Don't be scared"
+title: "Sporadic Mix #2: Don't be scared"
 image: assets/2019-10-25-thumb.png
 categories: mix
 ---

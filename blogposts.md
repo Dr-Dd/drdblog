@@ -1,5 +1,5 @@
 ---
-title: "blogposts"
+title: ":blogposts"
 layout: page
 permalink: /blogposts
 ---

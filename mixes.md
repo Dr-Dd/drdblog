@@ -1,5 +1,5 @@
 ---
-title: "mixes"
+title: ":mixes"
 layout: page
 permalink: /mixes
 ---

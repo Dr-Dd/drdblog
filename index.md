@@ -1,5 +1,5 @@
 ---
-title: "home"
+title: ":home"
 layout: page
 permalink:
 image: assets/index-thumb.png
