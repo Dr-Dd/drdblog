@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post, First Mix"
+title: "Sporadic Mix #1: First Post, First Mix"
 categories: mix
 ---
 
