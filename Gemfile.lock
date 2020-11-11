@@ -264,6 +264,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-font-awesome-sass
+  jekyll-sitemap
   jekyll-theme-console
 
 BUNDLED WITH
