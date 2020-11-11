@@ -40,7 +40,6 @@ font-awesome:
 header_pages:
   - index.md
   - mixes.md
-  - emacs.md
   - blogposts.md
 
 style: dark
